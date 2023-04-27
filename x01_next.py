@@ -15,6 +15,8 @@ def next(current , myList):
   determine the next item from the list. The list contains False/True Boolean values
   that indicate whether the current item can be used
   '''
+
+
   return None
 
 def main():
@@ -40,5 +42,5 @@ def main():
   
   
 
-if __name__ == "__main__:
+if __name__ == "__main__":
   main()
